@@ -15,4 +15,4 @@ ENV RUN_FOREVER=1 \
     RUN_EVERY_SECONDS=300
 
 # Start your watcher
-CMD ["python", "seekube_telegram_watcher.py"]
+CMD ["python","seekube_telegram_watcher.py"]
